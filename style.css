@@ -1,0 +1,48 @@
+#date {
+    text-align: center;
+    background-color: lightcoral;
+    color: black;
+}
+
+#header ul li {
+    display: inline;
+    margin-right: 6px;
+    padding-inline-start: 1px;
+    text-transform: uppercase;
+    color: blue;
+}
+
+#heading {
+    text-align: center;
+    margin-left: 6px;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    margin-left: 1000px;
+}
+
+#container {
+    background-color: hotpink;
+}
+
+.footer {
+    text-align: center;
+    color: black;
+    margin-top: 340px;
+}
+
+.footer p {
+    background-color: crimson;
+}
+
+.footer1 {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.footer1 p {
+    background-color: crimson;
+}
